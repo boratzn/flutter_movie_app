@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+<img src="https://github.com/boratzn/flutter_movie_app/blob/master/assets/screenshots/movie_app_homepage.PNG" width=300 height=600/> <img src="https://github.com/boratzn/flutter_movie_app/blob/master/assets/screenshots/detail_page.PNG" width=300 height=600/>
 
 ## Getting Started
 
